@@ -62,12 +62,11 @@ Ce projet, intitulé **first-ai**, est conçu pour explorer, développer et exp�
 ```
 first-ai/
 │
-├── notebooks/           # Notebooks Jupyter principaux du projet
-│   └── ...
-├── data/                # Jeux de données ou scripts de prétraitement (si besoin)
+├── classify.ipynb        # Notebook principal
+├── defaut_de_paiment.csv     # Jeux de données
 ├── requirements.txt     # Liste des dépendances Python
-├── README.md            # Ce fichier
-└── ...
+└── README.md            # Ce fichier
+
 ```
 
 ## Fonctionnalités
